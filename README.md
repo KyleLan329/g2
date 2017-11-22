@@ -14,4 +14,4 @@
 
 ### 直播码
 
-![image](https://gw.alipayobjects.com/zos/rmsportal/SfEErKOlhglnbeiHZleq.png)
+<img src="https://gw.alipayobjects.com/zos/rmsportal/SfEErKOlhglnbeiHZleq.png" width="200px">
